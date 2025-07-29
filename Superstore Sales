@@ -1,0 +1,12 @@
+# Power BI – Superstore Sales Dashboard #
+
+Visualisasi data penjualan Superstore dari Kaggle menggunakan Power BI Desktop.
+
+📈 **Insight**:
+- Penjualan tertinggi terjadi di wilayah West
+- Produk “Riverside Palais Royal…” mendominasi penjualan
+- Kategori "Technology" menghasilkan profit tertinggi
+
+📁 File:
+- dashboard.pbix` – File Power BI
+- dashboard-screenshot.png` – Tampilan dashboard
