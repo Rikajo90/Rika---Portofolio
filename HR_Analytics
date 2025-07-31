@@ -1,0 +1,83 @@
+# 📊 Power BI – Dashboard HR Analytics
+
+Dashboard ini dibuat menggunakan Microsoft Power BI untuk menganalisis data karyawan dan mengidentifikasi pola yang berkaitan dengan pengunduran diri karyawan (attrition). Proyek ini merupakan bagian dari portofolio analitik data saya, dengan tujuan memberikan insight yang mendalam kepada divisi HR agar dapat mengurangi tingkat attrition.
+
+---
+
+## 📁 Dataset
+
+- Sumber: [IBM HR Analytics Employee Attrition & Performance (Kaggle)](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+- File: `WA_Fn-UseC_-HR-Employee-Attrition.csv`
+- Jumlah data: 1.470 baris
+- Atribut: Umur, Jabatan, Gaji, Jarak Rumah, Pengalaman Kerja, Status Pernikahan, dan lainnya
+
+---
+
+## 🎯 Tujuan Dashboard
+
+- Menganalisis jumlah dan persentase karyawan yang keluar (attrition)
+- Mengidentifikasi karakteristik umum karyawan yang resign
+- Memberikan insight untuk mendukung strategi retensi karyawan
+
+---
+
+## 📊 Visualisasi Utama
+
+1. **Total Karyawan & Persentase Attrition**  
+   ➤ Dua card: total jumlah karyawan dan persentase yang resign
+
+2. **Distribusi Attrition Berdasarkan Jenis Kelamin**  
+   ➤ Pie chart membandingkan pria vs wanita yang mengundurkan diri
+
+3. **Rentang Usia vs Status Attrition**  
+   ➤ Bar chart menampilkan usia mana yang paling sering resign
+
+4. **Jarak Rumah vs Status Attrition**  
+   ➤ Visualisasi hubungan jarak rumah dan keputusan resign
+
+5. **Rata-Rata Gaji Bulanan per Jabatan**  
+   ➤ Bar chart untuk mengukur jabatan mana yang memiliki rata-rata gaji tertinggi
+
+6. **Tingkat Attrition Berdasarkan Tingkat Pendidikan dan Status Pernikahan**  
+   ➤ Clustered column untuk memetakan kombinasi faktor sosial terhadap resign
+
+7. **Filter Interaktif (Slicer)**  
+   ➤ Usia, Jenis Kelamin, Jabatan, dan lainnya untuk memfilter semua visual secara dinamis
+
+---
+
+## 📌 Insight Utama
+
+- Mayoritas karyawan yang resign berusia 30–40 tahun
+- Gaji rendah dan jarak rumah jauh menjadi indikator signifikan terhadap pengunduran diri
+- Karyawan yang belum menikah cenderung lebih sering resign dibanding yang sudah menikah
+
+---
+
+## 🛠️ Tools yang Digunakan
+
+- **Power BI Desktop**
+- **DAX** untuk pembuatan measure seperti `% Attrition`
+- **Power Query** untuk pembersihan data
+
+---
+
+## 📷 Screenshot Dashboard
+
+![HR Analytics Dashboard](./screenshot-hr-dashboard.png)
+
+---
+
+## 📦 File Repositori
+
+| Nama File | Deskripsi |
+|-----------|-----------|
+| `HR_Analytics.pbix` | File utama Power BI |
+| `screenshot-hr-dashboard.png` | Gambar tampilan dashboard |
+| `README.md` | Dokumentasi proyek ini |
+
+---
+
+## 👩‍💼 Dibuat Oleh
+
+Rika Jo – Portofolio Analisis Data Power BI  
