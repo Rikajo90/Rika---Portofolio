@@ -1,0 +1,15 @@
+# Power BI – Analisis Data Kesehatan Jantung
+
+Dashboard ini menganalisis data kesehatan pasien untuk mengetahui pola penyakit jantung menggunakan Power BI.
+
+## 🔍 Insight:
+- Sebagian besar pasien dengan penyakit jantung adalah laki-laki usia 50-60 tahun.
+- Jenis nyeri dada “ATA” paling sering dialami pasien dengan penyakit jantung.
+- Pasien dengan kolesterol tinggi & tekanan darah istirahat ≥140 memiliki risiko lebih tinggi.
+
+## 🗂️ File:
+- `health-dashboard.pbix` – file Power BI
+- `dashboard-screenshot.png` – tampilan visual
+
+## 📊 Sumber Dataset:
+Kaggle – [Heart Failure Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
