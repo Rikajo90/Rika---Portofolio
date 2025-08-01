@@ -6,7 +6,7 @@ Saya adalah seorang profesional IT dengan pengalaman lintas peran:
 ✅ **Database Administrator (DBA)**, dan  
 ✅ **Software Quality Assurance (SQA)**.
 
-Saat ini saya aktif mencari peluang kerja **remote WFH** atau **onsite di Bandung** sebagai developer, database engineer, maupun QA specialist.
+Saat ini saya aktif mencari peluang kerja **remote WFH** maupun **onsite** sebagai developer, database engineer, maupun QA specialist.
 
 ---
 
